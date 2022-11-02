@@ -1,10 +1,11 @@
-
-
-
 .App {
   text-align: center;
   background-color: #7a4a58;
   color: white;
+}
+
+.App ul {
+  text-align: center;
 }
 
 .App2 {
@@ -12,5 +13,6 @@
   align-items:center;
   background-color: #c8c6cb;
   color: #797879;
-  
+  text-align: end;
+
 }
